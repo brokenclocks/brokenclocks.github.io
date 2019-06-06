@@ -1,0 +1,70 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+nav button{
+  background-color:#000;
+}
+.blue-container{
+  color:#F9F2F2;
+  background-color:#1D283B;
+}
+.white-container{
+  color:#000;
+  background-color:#fff;
+}
+.gray-text{
+  color:gray;
+  line-height: 3;
+}
+.customnav{
+  color:#F9F2F2;
+  background-color:#1D283B;
+}
+.bigHeading{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin:15% 0;
+}
+.secondHeading{
+  font-family: "Montserrat-Bold";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.projectHeading{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin:2% 0;
+}
+.projectText{
+  margin-top:7%;
+    line-height: 3;
+}
+.featureBox{
+padding: 3% 2%;
+}
+
+/* container settings */
+.container-fluid{
+padding: 3% 15%;
+}
+/* images settings */
+.headerLogo{
+  height: 250px;
+  width:298px;
+  margin-top: 7%;
+}
+.footerLogo{
+  height: 50px;
+  width:50px;
+}
+.footerLogo:hover{
+  background-color:#91A0A4;
+  color:#91A0A4;
+}
