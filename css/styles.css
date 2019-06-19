@@ -64,7 +64,10 @@ padding: 3% 15%;
   height: 50px;
   width:50px;
 }
-.footerLogo:hover{
+.link-footer:hover{
+color:white;
+}
+.footerLogo:hover  {
   background-color:#91A0A4;
   color:#91A0A4;
 }
